@@ -1,8 +1,8 @@
-# myapp
+# vishnusahasranama android app
 
-A new Flutter project.
+using Flutter platform
 
-## Getting Started
+## Flutter Platform 
 
 For help getting started with Flutter, view our online
 [documentation](http://flutter.io/).
