@@ -3,7 +3,7 @@
 using Flutter platform
 
 ## screenshot
-![screenshot](Screenshot_2023-05-18-18-28-40-67_eb2c3ada4621de752774305b25306356.png)
+![screenshot](Screenshot_2023-05-18-18-28-40-67_eb2c3ada4621de752774305b25306356.png | width=200)
 
 ## Flutter Platform 
 
